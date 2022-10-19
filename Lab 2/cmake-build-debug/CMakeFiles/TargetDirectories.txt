@@ -1,3 +1,3 @@
-Z:/NAI Lab/Lab 2/cmake-build-debug/CMakeFiles/Lab_2.dir
-Z:/NAI Lab/Lab 2/cmake-build-debug/CMakeFiles/edit_cache.dir
-Z:/NAI Lab/Lab 2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Igora/Desktop/PJATK-NAI/Lab 2/cmake-build-debug/CMakeFiles/Lab_2.dir
+C:/Users/Igora/Desktop/PJATK-NAI/Lab 2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Igora/Desktop/PJATK-NAI/Lab 2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

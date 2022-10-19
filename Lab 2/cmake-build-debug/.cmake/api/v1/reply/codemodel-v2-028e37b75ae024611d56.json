@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "Z:/NAI Lab/Lab 2/cmake-build-debug",
-		"source" : "Z:/NAI Lab/Lab 2"
+		"build" : "C:/Users/Igora/Desktop/PJATK-NAI/Lab 2/cmake-build-debug",
+		"source" : "C:/Users/Igora/Desktop/PJATK-NAI/Lab 2"
 	},
 	"version" : 
 	{
