@@ -1,4 +1,4 @@
-"C:\Program Files\JetBrains\CLion 2022.2.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Release "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2022.2.4/bin/ninja/win/ninja.exe" -G Ninja -S "C:\Users\Igora\Desktop\PJATK-NAI\Lab 8" -B "C:\Users\Igora\Desktop\PJATK-NAI\Lab 8\cmake-build-release"
+"C:\Program Files\JetBrains\CLion 2022.2.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Release "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2022.2.4/bin/ninja/win/ninja.exe" -G Ninja -S C:\Users\Igora\Desktop\PJATK-NAI\Lab_8 -B C:\Users\Igora\Desktop\PJATK-NAI\Lab_8\cmake-build-release
 -- The C compiler identification is GNU 11.2.0
 -- The CXX compiler identification is GNU 11.2.0
 -- Detecting C compiler ABI info
@@ -14,4 +14,4 @@
 -- Found OpenCV: C:/opencv-4.x/cmake-build-release (found version "4.6.0") 
 -- Configuring done
 -- Generating done
--- Build files have been written to: C:/Users/Igora/Desktop/PJATK-NAI/Lab 8/cmake-build-release
+-- Build files have been written to: C:/Users/Igora/Desktop/PJATK-NAI/Lab_8/cmake-build-release

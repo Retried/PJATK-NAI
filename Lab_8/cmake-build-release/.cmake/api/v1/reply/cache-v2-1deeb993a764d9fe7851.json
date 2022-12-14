@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/Igora/Desktop/PJATK-NAI/Lab 8/cmake-build-release"
+			"value" : "c:/Users/Igora/Desktop/PJATK-NAI/Lab_8/cmake-build-release"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -575,7 +575,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Igora/Desktop/PJATK-NAI/Lab 8/cmake-build-release/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/Igora/Desktop/PJATK-NAI/Lab_8/cmake-build-release/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -647,7 +647,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/Igora/Desktop/PJATK-NAI/Lab 8"
+			"value" : "C:/Users/Igora/Desktop/PJATK-NAI/Lab_8"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1287,7 +1287,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Igora/Desktop/PJATK-NAI/Lab 8/cmake-build-release"
+			"value" : "C:/Users/Igora/Desktop/PJATK-NAI/Lab_8/cmake-build-release"
 		},
 		{
 			"name" : "ocvdemo_IS_TOP_LEVEL",
@@ -1311,7 +1311,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Igora/Desktop/PJATK-NAI/Lab 8"
+			"value" : "C:/Users/Igora/Desktop/PJATK-NAI/Lab_8"
 		}
 	],
 	"kind" : "cache",

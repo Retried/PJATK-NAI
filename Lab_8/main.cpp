@@ -10,8 +10,8 @@ int main() {
     if (!vc.isOpened()) return 1;
 
     Mat frame, frame_bw, frame_edges;
-    array low = {90, 200, 0};
-    array high = {255, 255, 255};
+    array low = {0, 120, 125};
+    array high = {15, 255, 255};
 
     namedWindow("trackbars");
 
@@ -45,6 +45,9 @@ int main() {
             auto c1 = moments(contours[0], false);
             auto c2 = moments(contours[1], false);
 
+            int s1 = contours[0].size()/2;
+            int s2 = contours[1].size()/2;
+
             int x_center_c1 = (int) (c1.m10 / c1.m00);
             int y_center_c1 = (int) (c1.m01 / c1.m00);
             int x_center_c2 = (int) (c2.m10 / c2.m00);
@@ -53,8 +56,8 @@ int main() {
             Point p1 = {x_center_c1, y_center_c1};
             Point p2 = {x_center_c2,y_center_c2};
 
-            ellipse(frame, p1, Size{10, 10}, 0.0, 0, 360, {0, 255, 0}, 2);
-            ellipse(frame, p2, Size{10, 10}, 0.0, 0, 360, {0, 255, 0}, 2);
+            ellipse(frame, p1, Size{5+s1, 5+s1}, 0.0, 0, 360, {0, 255, 0}, 2);
+            ellipse(frame, p2, Size{5+s2, 5+s2}, 0.0, 0, 360, {0, 255, 0}, 2);
 
             imshow("frame", frame);
 
