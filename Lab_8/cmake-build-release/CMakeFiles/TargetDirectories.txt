@@ -1,0 +1,3 @@
+C:/Users/Igora/Desktop/PJATK-NAI/Lab 8/cmake-build-release/CMakeFiles/ocvdemo.dir
+C:/Users/Igora/Desktop/PJATK-NAI/Lab 8/cmake-build-release/CMakeFiles/edit_cache.dir
+C:/Users/Igora/Desktop/PJATK-NAI/Lab 8/cmake-build-release/CMakeFiles/rebuild_cache.dir
